@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mtyvoid
+- 👋 Hello, I’m @Mtyvoid
 
 - 👀 I’m interested in Cloud Migrations, Blockchain Architecture, Smart Contract Development
 
